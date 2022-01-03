@@ -27,3 +27,19 @@ h1{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.experience-box{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 3%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px grey;
+}
+.full-web{
+    border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
+}
