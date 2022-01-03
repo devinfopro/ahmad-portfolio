@@ -1,0 +1,29 @@
+body{
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Playfair Display', serif;
+margin: 0%;
+}
+h1{
+    font-size: 40px;
+}
+.orange-color{
+    color: rgba(255, 166, 0, 0.842);
+}
+section{
+    display: flex;
+
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.linkedin-button{
+    border-radius: 3%;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
