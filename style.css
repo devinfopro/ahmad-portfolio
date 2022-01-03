@@ -1,7 +1,7 @@
 body{
     font-family: 'Cabin', sans-serif;
     font-family: 'Playfair Display', serif;
-margin: 0%;
+    margin: 0%;
 }
 h1{
     font-size: 40px;
@@ -11,7 +11,7 @@ h1{
 }
 section{
     display: flex;
-
+    margin: 30px;
 }
 .half-width{
     width: 50%;
